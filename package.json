@@ -1,0 +1,10 @@
+{
+  "name": "smarter-tech-package-sorter",
+  "version": "1.0.0",
+  "description": "Package sorting function for Smarter Technology robotic automation challenge.",
+  "main": "sort.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}
